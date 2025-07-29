@@ -93,4 +93,5 @@ For more details regarding this study, please contact:
 
 ### Disclaimer
 This repository is for informational purposes only and should not be considered as medical or regulatory advice. Always refer to the original protocol and regulatory authorities for official guidelines.
+⚠️ Note: This is a dummy clinical project for learning and demonstration purposes only. No real patient data is used.
 
